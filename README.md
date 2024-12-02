@@ -27,7 +27,7 @@ npm run install:all
 npm run start:dev
 
 ## Deployment
-The application can be deployed to Render. 
+The application can be deployed to Render. My deployed link: https://kanban-board-app-yadw.onrender.com
 
 ## License
 This project is licensed under the MIT License.
